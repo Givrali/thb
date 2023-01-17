@@ -1,3 +1,5 @@
+**Consigne d'examen**
+
 # Dynamic Models for Building Energy Management
 
 These tutorials present a complete example of thermal dynamic simulation of a building. For the sake of simplicity, a [toy model](./figures/03_cube_principle.png) is used for the building in which 5 identical two-layer walls, a glass wall, air infiltration, and an indoor temperature control system are modelled.
@@ -10,7 +12,7 @@ The disadvantage is that, in the current implementation, application on large mo
 
 The notebooks can be run interactively on `MyBinder.org` by clicking on the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cghiaus/dm4bem/HEAD)
+https://mybinder.org/v2/gh/Givrali/thb/HEAD
 
 ## Tutorials
 - 01: [Weather data and solar radiation on a tilted surface](01WeatherData.ipynb).
