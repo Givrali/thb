@@ -1,5 +1,3 @@
-**Consigne d'examen**
-
 # Dynamic Models for Building Energy Management
 
 These tutorials present a complete example of thermal dynamic simulation of a building. For the sake of simplicity, a [toy model](./figures/03_cube_principle.png) is used for the building in which 5 identical two-layer walls, a glass wall, air infiltration, and an indoor temperature control system are modelled.
